@@ -13,6 +13,8 @@ Lucky Patcher — це безкоштовний додаток для Android, �
 Детальніше: https://www.luckypatchers.com/
 <br><br>
 Proxy server for in-app purchases — це проксі-сервер, який використовується для перехоплення або підробки запитів, пов’язаних з покупками всередині додатків (in-app purchases).
+<br><br>
+Детальніше: [https://duckduckgo.com/?q=proxy+server+for+in+app+purchases&ia=web](https://duckduckgo.com/?q=proxy+server+for+in+app+purchases&ia=web)
 ***
 ## Зміст
 - [Інструкція](#інструкція)
